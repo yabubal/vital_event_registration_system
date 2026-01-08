@@ -1,0 +1,8 @@
+
+{
+  "name": "Burie City Vital Event Registration System",
+  "description": "A comprehensive digital civil registration system for Birth, Death, Marriage, and Divorce records in Burie City, Ethiopia, featuring RBAC, workflow management, and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
